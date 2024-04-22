@@ -1,0 +1,28 @@
+//Actual Xcode theme
+//Sf Pro
+
+{
+    "symbols.hidesExplorerArrows": false,
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "symbols.files.associations": {
+        "*.module.ts": "nest",
+        "*.guard.ts": "typescript",
+        "*.spec.ts": "ts-test",
+        "*.e2e-spec.ts": "ts-test",
+        "vitest.config.e2e.ts": "vite",
+        ".env.example": "gear"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Actual Xcode Dark Theme",
+    "editor.fontFamily": "Sf Pro",
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.activityBar.location": "top",
+    "workbench.layoutControl.enabled": false,
+    "editor.codeLensFontSize": 15,
+    "editor.fontSize": 16
+}
